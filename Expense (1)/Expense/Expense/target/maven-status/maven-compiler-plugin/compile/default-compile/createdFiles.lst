@@ -1,0 +1,15 @@
+com\Zidio\Expense\repository\ManagerRepository.class
+com\Zidio\Expense\entity\User.class
+com\Zidio\Expense\services\expense\EmployeeService.class
+com\Zidio\Expense\ExpenseApplication.class
+com\Zidio\Expense\entity\Department.class
+com\Zidio\Expense\entity\Manager.class
+com\Zidio\Expense\controller\ExpenseController.class
+com\Zidio\Expense\entity\Expense.class
+com\Zidio\Expense\services\expense\ExpenseService.class
+com\Zidio\Expense\repository\EmployeeRepository.class
+com\Zidio\Expense\entity\Employee.class
+com\Zidio\Expense\entity\Notification.class
+com\Zidio\Expense\repository\ExpenseRepository.class
+com\Zidio\Expense\repository\UserRepository.class
+com\Zidio\Expense\controller\EmployeeController.class
